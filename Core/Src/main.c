@@ -66,14 +66,7 @@ static void JumpToApp(void)
      HAL_MPU_Disable();
      SCB_InvalidateICache();  // 失效指令快取
      SCB_InvalidateDCache();  // 失效資料快取
-     //void (*AppJump)(void);         /* 声明一个函数指针 */
-     //__IO uint32_t AppAddr = 0x90000000;  /* APP 地址 */
-     
-     /* 设置所有时钟到默认状态，使用HSI时钟 */
-     // HAL_RCC_DeInit();  
-     // __HAL_RCC_QSPI_CLK_ENABLE();
-     // MX_QUADSPI_GPIO_Init(); // 初始化GPIO
-     // MX_QUADSPI_Init();// 初始化QSPI
+
      /* 关闭滴答定时器，复位到默认值 */
      SysTick->CTRL = 0;
      SysTick->LOAD = 0;
@@ -88,8 +81,7 @@ static void JumpToApp(void)
      __set_CONTROL(0);
      __disable_irq();
      __set_PRIMASK(1);
-     //HAL_GPIO_DeInit(GPIOE, GPIO_PIN_3);
-     /* 使能全局中断 */
+
      
      
      JumpToApplication = (pFunction) (*(__IO uint32_t*)(APPLICATION_ADDRESS + 4));
@@ -102,40 +94,6 @@ static void JumpToApp(void)
  }
 
 
-//   static void JumpToAddressWithSetup(void) {
-//     uint32_t applicationAddress= 0x90000000; // 應用程式的起始位址
-//     //void (*AppJump)(void);  
-//     // 禁用所有中斷（在跳轉前通常是必要的）
-//     __disable_irq();
-//     // 禁用 MPU（如果使用的話）
-//     HAL_MPU_Disable();
-//         // 取得應用程式的 MSP（通常位於應用程式起始位址的 0 位元組）
-//         //uint32_t appStackPointer = *((uint32_t *)applicationAddress);
-    
-//     // 取得應用程式的 MSP（通常位於應用程式起始位址的 0 位元組）
-//     uint32_t appMSP = *((uint32_t *)applicationAddress);
-
-//     // 取得應用程式的 Reset Handler 位址（通常位於應用程式起始位址的 4 位元組）
-//     uint32_t appResetHandler = *((uint32_t *)(applicationAddress + 4));
-//     uint32_t nmi_handler_address = *(volatile uint32_t*)(applicationAddress + 8);
-//     // 將 Reset Handler 位址轉換為函數指標
-//     void (*AppJump)(void) = (void (*)(void))appResetHandler;;
-
-//     // 設定主堆疊指標 (MSP)
-//     __set_MSP(appMSP);
-//     // 設定控制暫存器為特權模式，使用 MSP（在 RTOS 環境中可能需要）
-//     __set_CONTROL(0); // 0 = Privileged mode, MSP
-//     // 禁用所有時鐘（在跳轉前通常是必要的）
-//     //HAL_RCC_DeInit();
-
-//     // 調用 Reset Handler，實現跳轉
-//     AppJump();
-    
-//     // 如果跳轉成功，通常不會執行到這裡
-//     while (1) {
-//         // 可以添加錯誤處理或指示跳轉失敗的程式碼
-//     }
-// }
 
 
 /* USER CODE END 0 */
