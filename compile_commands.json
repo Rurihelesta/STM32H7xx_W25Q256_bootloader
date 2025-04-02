@@ -1,0 +1,170 @@
+[
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\QSPI_loader_v0.1.dir\\Core\\Src\\main.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\main.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\main.c",
+  "output": "CMakeFiles\\QSPI_loader_v0.1.dir\\Core\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\QSPI_loader_v0.1.dir\\Core\\Src\\stm32h7xx_it.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\stm32h7xx_it.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\stm32h7xx_it.c",
+  "output": "CMakeFiles\\QSPI_loader_v0.1.dir\\Core\\Src\\stm32h7xx_it.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\QSPI_loader_v0.1.dir\\Core\\Src\\stm32h7xx_hal_msp.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\stm32h7xx_hal_msp.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\stm32h7xx_hal_msp.c",
+  "output": "CMakeFiles\\QSPI_loader_v0.1.dir\\Core\\Src\\stm32h7xx_hal_msp.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\QSPI_loader_v0.1.dir\\Core\\Src\\stm32h7xx_hal_timebase_tim.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\stm32h7xx_hal_timebase_tim.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\stm32h7xx_hal_timebase_tim.c",
+  "output": "CMakeFiles\\QSPI_loader_v0.1.dir\\Core\\Src\\stm32h7xx_hal_timebase_tim.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\QSPI_loader_v0.1.dir\\Core\\Src\\sysmem.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\sysmem.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\sysmem.c",
+  "output": "CMakeFiles\\QSPI_loader_v0.1.dir\\Core\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\QSPI_loader_v0.1.dir\\Core\\Src\\syscalls.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\syscalls.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\syscalls.c",
+  "output": "CMakeFiles\\QSPI_loader_v0.1.dir\\Core\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\QSPI_loader_v0.1.dir\\startup_stm32h743xx.s.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\startup_stm32h743xx.s",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\startup_stm32h743xx.s",
+  "output": "CMakeFiles\\QSPI_loader_v0.1.dir\\startup_stm32h743xx.s.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32h7xx.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\system_stm32h7xx.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Core\\Src\\system_stm32h7xx.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32h7xx.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim_ex.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim_ex.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim_ex.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_cortex.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_cortex.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_cortex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_cortex.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc_ex.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc_ex.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash_ex.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash_ex.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_gpio.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_gpio.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_gpio.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_gpio.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_hsem.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_hsem.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_hsem.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_hsem.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma_ex.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma_ex.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma_ex.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_mdma.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_mdma.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_mdma.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_mdma.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr_ex.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr_ex.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c_ex.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c_ex.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c_ex.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_exti.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_exti.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_exti.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_exti.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_qspi.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_qspi.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_qspi.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_qspi.c.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/STM32/QSPI_loader_v0.1",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Core/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Device/ST/STM32H7xx/Include -IC:/Users/user/Documents/STM32/QSPI_loader_v0.1/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_ll_delayblock.c.obj -c C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_ll_delayblock.c",
+  "file": "C:\\Users\\user\\Documents\\STM32\\QSPI_loader_v0.1\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_ll_delayblock.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_ll_delayblock.c.obj"
+}
+]
